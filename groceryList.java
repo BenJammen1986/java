@@ -1,5 +1,5 @@
 
-public class Test {
+public class GroceryList {
   public static void main(String[] args){
     String[] myGroceryList = { "apples", "oranges", "burgers", "caviar" };
     Integer[] groceryItemPrices = { 3, 4, 6, 25 };
