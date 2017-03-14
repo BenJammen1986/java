@@ -11,7 +11,7 @@ public class Hours {
       System.out.println("You have worked for " + stringTotal + " hours so far. Great job, you hard worker you!");
     } else {
       String stringTotal = Integer.toString(totalHours3);
-      System.out.println("You have worked for " + totalHours3 + " hours so far. Lucy: you have some 'splaining to do!");
+      System.out.println("You have worked for " + totalHours3 + " hours so far. Lucy...you have some 'splaining to do!");
     }
   }
    public static Integer getHours(String day) {
